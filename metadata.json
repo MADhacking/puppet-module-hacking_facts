@@ -1,0 +1,17 @@
+{
+	"name": "hacking-hacking_facts",
+	"version": "0.1.0",
+	"author": "Max Hacking",
+	"license": "GPL-3.0",
+	"summary": "Puppet module to provide additional system facts.",
+	"source": "https://github.com/MADhacking/puppet-module-hacking_facts",
+	"project_page": "https://github.com/HackingM",
+	"issues_url": "https://github.com/MADhacking/puppet-module-hacking_facts/issues",
+	"tags": [ "rc_sys", "initsystem"],
+	"operatingsystem_support": [{
+			"operatingsystem": "Gentoo"
+		}
+	],
+	"dependencies": [],
+	"requirements": []
+}
